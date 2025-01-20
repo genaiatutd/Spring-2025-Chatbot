@@ -1,1 +1,1 @@
-# chatbot-workshop
+# This is where Gen AI's workshop info will be stored
