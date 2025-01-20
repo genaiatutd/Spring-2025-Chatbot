@@ -1,1 +1,1 @@
-# This is where Gen AI's workshop info will be stored
+# Spring 2025 Chatbot Workshop
