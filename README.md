@@ -1,1 +1,2 @@
-# Spring 2025 Chatbot Workshop
+API Key:
+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
